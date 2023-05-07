@@ -1,1 +1,0 @@
-import{o as s,c as _,a}from"./index-75dab780.js";const r=(e,t)=>{const n=e.__vccOpts||e;for(const[o,c]of t)n[o]=c;return n},i={},d={class:"admin"},l=a("h1",null,"Admin panel",-1),m=[l];function f(e,t){return s(),_("div",d,m)}const u=r(i,[["render",f]]);export{u as default};
